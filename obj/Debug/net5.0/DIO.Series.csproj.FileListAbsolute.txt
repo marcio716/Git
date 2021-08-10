@@ -1,0 +1,8 @@
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+G:\work\ex02\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
